@@ -5,7 +5,7 @@ Soy **Ingeniera en Sistemas** enfocada en el desarrollo **Frontend**, con una ba
 ### Sobre mí:
 * 💻 **Frontend Lover:** Mi especialidad es **React** y **TypeScript**, creando aplicaciones modernas y escalables. 
 * ⚙️ **Mentalidad Full-stack:** Entiendo perfectamente el lado del servidor gracias a mi experiencia con **Node.js**, **Express** y gestión de bases de datos.
-* * 🗣️ **Idiomas:** Poseo un nivel de **Inglés B2 (Upper Intermediate)**, lo que me permite comunicarme efectivamente en entornos laborales internacionales.
+* 🗣️ **Idiomas:** Poseo un nivel de **Inglés B2 (Upper Intermediate)**, lo que me permite comunicarme efectivamente en entornos laborales internacionales.
 * 🎓 **Metodologías Ágiles:** Durante mi carrera en la **UAI**, incorporé el uso de metodologías ágiles para la gestión eficiente de proyectos de software. 
 * 🎨 **Próximo paso:** Actualmente estoy muy interesada en profundizar mis conocimientos en **Diseño UX/UI** para perfeccionar la usabilidad de mis desarrollos.
 
