@@ -42,6 +42,6 @@ Soy **Ingeniera en Sistemas** enfocada en el desarrollo **Frontend**, con una ba
 ---
 
 ### Contacto:
-* 📍 Rosario, Santa Fe, Argentina [cite: 9]
-* ✉️ [triniirs@gmail.com](mailto:triniirs@gmail.com) [cite: 8]
+* 📍 Rosario, Santa Fe, Argentina 
+* ✉️ [triniirs@gmail.com](mailto:triniirs@gmail.com) 
 * 💼 Mi linkedin: https://www.linkedin.com/in/trinidad-ramos-88434b246/ 
