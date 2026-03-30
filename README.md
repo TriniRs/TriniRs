@@ -1,11 +1,11 @@
 # ¡Hola! Soy Trinidad Ramos 👋
 
-[cite_start]Soy **Ingeniera en Sistemas** enfocada en el desarrollo **Frontend**, con una base sólida en el mundo **Backend**. [cite: 2, 3, 29] [cite_start]Me apasiona crear interfaces web que no solo funcionen bien, sino que ofrezcan una gran experiencia al usuario. [cite: 3, 5]
+[cite_start]Soy **Ingeniera en Sistemas** enfocada en el desarrollo **Frontend**, con una base sólida en el mundo **Backend**. [cite_start]Me apasiona crear interfaces web que no solo funcionen bien, sino que ofrezcan una gran experiencia al usuario.
 
 ### Sobre mí:
-* [cite_start]💻 **Frontend Lover:** Mi especialidad es **React** y **TypeScript**, creando aplicaciones modernas y escalables. [cite: 3, 19]
-* [cite_start]⚙️ **Mentalidad Full-stack:** Entiendo perfectamente el lado del servidor gracias a mi experiencia con **Node.js**, **Express** y gestión de bases de datos. [cite: 4, 23]
-* [cite_start]🎓 **Metodologías Ágiles:** Durante mi carrera en la **UAI**, incorporé el uso de metodologías ágiles para la gestión eficiente de proyectos de software. [cite: 28]
+* 💻 **Frontend Lover:** Mi especialidad es **React** y **TypeScript**, creando aplicaciones modernas y escalables. 
+* ⚙️ **Mentalidad Full-stack:** Entiendo perfectamente el lado del servidor gracias a mi experiencia con **Node.js**, **Express** y gestión de bases de datos. 
+* 🎓 **Metodologías Ágiles:** Durante mi carrera en la **UAI**, incorporé el uso de metodologías ágiles para la gestión eficiente de proyectos de software. 
 * 🎨 **Próximo paso:** Actualmente estoy muy interesada en profundizar mis conocimientos en **Diseño UX/UI** para perfeccionar la usabilidad de mis desarrollos.
 
 ---
@@ -32,6 +32,6 @@
 ---
 
 ### Contacto:
-* [cite_start]📍 Rosario, Santa Fe, Argentina [cite: 9]
-* [cite_start]✉️ [triniirs@gmail.com](mailto:triniirs@gmail.com) [cite: 8]
-* 💼 [Mi LinkedIn](TU_LINK_A_LINKEDIN_AQUI)
+* 📍 Rosario, Santa Fe, Argentina [cite: 9]
+* ✉️ [triniirs@gmail.com](mailto:triniirs@gmail.com) [cite: 8]
+* 💼 Mi linkedin: https://www.linkedin.com/in/trinidad-ramos-88434b246/ 
